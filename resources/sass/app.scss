@@ -1,0 +1,24 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.h-screen{
+	height: 100vh;
+}
+
+.font-size-category{
+	font-size: 35px;
+}
+
+.font-size-roleandlang{
+	font-size: 25px;
+}
+
+.font-size-others{
+	font-size: 20px;
+}
